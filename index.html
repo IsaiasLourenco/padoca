@@ -126,7 +126,14 @@
 
             <div class="box-6">
                 <h6 class="sub">Formulário de contato</h6>
-                <form action="">
+                <form action="https://formsubmit.co/isaiaslourenco2020@gmail.com" method="POST">
+
+                    <input type="hidden" name="_captcha" value="false">
+                    <!-- <input type="hidden" name="_next" value="obrigado.html"> -->
+                    <!-- <input type="hidden" name="_next" value="http://127.0.0.1:5500/obrigado.html"> -->
+                    <input type="hidden" name="_next" value="https://isaiaslourenco.github.io/padoca/obrigado.html">
+                    <input type="hidden" name="_subject" value="Novo contato para site da Padoca">
+
                     <label for="nome">Nome:</label>
                     <input type="text" id="nome" name="nome" required />
 
@@ -157,11 +164,32 @@
     <footer>
         <div class="container">
             <div class="box-12">
-                <p>&copy; <a href="https://www.vetor256.com" title="site da Vetor256." target="_blank" text-decoration: underline;">Vetor256</a>. 2024 - Todos os direitos reservados</p>
+                <p>&copy; <a href="https://www.vetor256.com" title="site da Vetor256." target="_blank" text-decoration:
+                        underline;">Vetor256</a>. 2024 - Todos os direitos reservados</p>
 
             </div>
         </div>
     </footer>
+
+    <script>
+        const telInput = document.getElementById('telefone');
+
+        telInput.addEventListener('input', function (e) {
+            let value = e.target.value.replace(/\D/g, ''); // Remove tudo que não é número
+
+            if (value.length > 11) value = value.slice(0, 11); // Limita a 11 dígitos
+
+            if (value.length > 0) {
+                value = `(${value.slice(0, 2)}) ` + value.slice(2);
+            }
+            if (value.length > 9) {
+                value = value.slice(0, 10) + '-' + value.slice(10);
+            }
+
+            e.target.value = value;
+        });
+    </script>
+
 
 </body>
 

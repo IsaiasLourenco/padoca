@@ -305,3 +305,7 @@ footer{
     text-align: center;
     font-size: 12px;
 }
+
+.email {
+    background: linear-gradient(to right, #ff9535, #f7b06d);
+}
