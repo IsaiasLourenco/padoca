@@ -26,7 +26,7 @@ O site da Padoca conta com as seguintes seções:
 
 ## 📫 Entre em contato
 Entre em contato conosco
-📧 E-mail: isaias@vetor256.com
+📧 E-mail: isaias@vetor256.com <br>
 📍 Endereço: Rua Mococa, 880 Mogi Guaçu SP
 
 ## 💡 Visão e Valores
@@ -36,7 +36,7 @@ Acreditamos que a tecnologia pode transformar a forma como os negócios operam. 
 ## 📫 Entre em contato
 
 Quer saber mais ou iniciar um projeto conosco?  
-**E-mail:** isaias@vetor256.com
+**E-mail:** isaias@vetor256.com <br>
 **Site:** [vetor256.com.br](https://vetor256.com)  
 
 <img src="./img/logotipo-do-github.png" alt="Github"> [GitHub](https://github.com/IsaiasLourenco)<br>
