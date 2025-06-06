@@ -36,14 +36,14 @@ Acreditamos que a tecnologia pode transformar a forma como os negócios operam. 
 ## 📫 Entre em contato
 
 Quer saber mais ou iniciar um projeto conosco?  
-**E-mail:** adm.vetor256@gmail.com.br  
-**Site:** [www.vetor256.com.br](https://isaiaslourenco.github.io/vetor256/)  
+**E-mail:** isaias@vetor256.com
+**Site:** [vetor256.com.br](https://vetor256.com)  
 
-<img src="./img/logotipo-do-github.png" alt="Github"> [GitHub](https://github.com/pointofsalespro)<br>
-<img src="./img/logotipo-do-linkedin.png" alt="LinkedIn"> [LinkedIn](https://linkedin.com/company/pointofsalespro)
+<img src="./img/logotipo-do-github.png" alt="Github"> [GitHub](https://github.com/IsaiasLourenco)<br>
+<img src="./img/logotipo-do-linkedin.png" alt="LinkedIn"> [LinkedIn](https://www.linkedin.com/in/isaias-lourenco/)
 
-<a href="https://github.com/IsaiasLourenco/Point-Of-Sales" target="_blank"> 💻 Repositório </a> <br>
-<a href="https://pdv.vetor256.com" target="_blank">🔗 Site</a>
+<a href="https://github.com/IsaiasLourenco/padoca" target="_blank"> 💻 Repositório </a> <br>
+<a href="https://isaiaslourenco.github.io/padoca/" target="_blank">🔗 Site</a>
 
 ---
 
