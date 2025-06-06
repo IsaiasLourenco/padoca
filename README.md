@@ -39,8 +39,8 @@ Quer saber mais ou iniciar um projeto conosco?
 **E-mail:** adm.vetor256@gmail.com.br  
 **Site:** [www.vetor256.com.br](https://isaiaslourenco.github.io/vetor256/)  
 
-<img src="./assets/img/logotipo-do-github.png" alt="Github"> [GitHub](https://github.com/pointofsalespro)<br>
-<img src="./assets/img/logotipo-do-linkedin.png" alt="LinkedIn"> [LinkedIn](https://linkedin.com/company/pointofsalespro)
+<img src="./img/logotipo-do-github.png" alt="Github"> [GitHub](https://github.com/pointofsalespro)<br>
+<img src="./img/logotipo-do-linkedin.png" alt="LinkedIn"> [LinkedIn](https://linkedin.com/company/pointofsalespro)
 
 <a href="https://github.com/IsaiasLourenco/Point-Of-Sales" target="_blank"> 💻 Repositório </a> <br>
 <a href="https://pdv.vetor256.com" target="_blank">🔗 Site</a>
