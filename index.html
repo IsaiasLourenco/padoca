@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Padoca</title>
+    <!-- ícone -->
+    <link rel="shortcut icon" href="./img/padaria.ico" type="image/x-icon">
     <!-- importando fonte externa -->
     <link
         href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
@@ -19,7 +21,7 @@
     <header class="cabec">
         <div class="container">
             <div class="box-4">
-                <h1>Padoca</h1>
+                <h1 class="logo">Padoca</h1>
             </div>
             <div class="box-8">
                 <nav>
@@ -37,7 +39,7 @@
     <section class="faxada">
         <div class="container">
             <div class="box-6">
-                <h2 class="big-title">Servindo com excelência</h2>
+                <h2 class="faxada-title">Servindo com excelência</h2>
                 <p class="texto">Desde o primeiro pão quentinho até os doces artesanais que encantam gerações, nossa
                     padaria é movida pela paixão em oferecer produtos frescos e saborosos. Com ingredientes selecionados
                     e receitas que combinam tradição e inovação, garantimos qualidade em cada fornada. Aqui, cada
@@ -88,18 +90,22 @@
     <section class="sobre">
         <div class="container">
             <div class="box-12">
-                <h2 class="big-title">Nossa história.</h2>
+                <h2 class="sobre-title">Sobre nós.</h2>
             </div>
             <div class="box-4">
                 <img src="./img/sobre.jpg" alt="Dono da Padoca" title="Dono da Padoca">
             </div>
             <div class="box-8">
-                <h3>Nossa história</h3>
+                <h3 class="sub-title">Nossa história</h3>
                 <p class="paragraph">
                     Tudo começou há mais de duas décadas, quando Seu Antônio, um apaixonado por panificação, decidiu
                     transformar sua pequena cozinha em um verdadeiro laboratório de sabores. Com receitas passadas de
                     geração em geração, ele abriu as portas da Padoca com um simples objetivo: oferecer pães fresquinhos
                     e autênticos, preparados com carinho e ingredientes de qualidade.
+                    Tudo novo na cidade pois toda essa fragância, cuidado com os alimentos, preparação e os próprios
+                    alimentos usados nas receitas, frescos e saborosos, eram uma herança de seus antepassados, e ele
+                    mesmo, vindo do sul de Minas, trouxe todo o sabor e significado de um carinho e amor especial ao
+                    preparar alimentos, especialmente os doces, próprio do povo de Minas Gerais.
                     O aroma irresistível das fornadas conquistou rapidamente os moradores do bairro, e logo a Padoca se
                     tornou um ponto de encontro. Seja para um café da manhã reforçado, um pão quentinho no fim do dia ou
                     aquele doce artesanal que traz aconchego, aqui cada cliente é recebido como parte da família.
@@ -111,6 +117,51 @@
             </div>
         </div>
     </section>
+
+    <section class="contato" id="contato">
+        <div class="container">
+            <div class="box-12">
+                <h2 class="big-title">Entre em contato conosco</h2>
+            </div>
+
+            <div class="box-6">
+                <h6 class="sub">Formulário de contato</h6>
+                <form action="">
+                    <label for="nome">Nome:</label>
+                    <input type="text" id="nome" name="nome" required />
+
+                    <label for="telefone">Telefone:</label>
+                    <input type="text" id="telefone" name="telefone" required />
+
+                    <label for="assunto">Assunto:</label>
+                    <textarea id="assunto" name="assunto" required></textarea>
+
+                    <input type="submit" value="Enviar" class="btn" />
+                </form>
+
+                <p class="mensagem-final">Responderemos o mais rápido possível. Um café te espera!</p>
+            </div>
+
+            <div class="box-6 contato-infos">
+                <ul class="cor-do-texto">
+                    <li><i class="fa-brands fa-square-whatsapp whats"></i> 19 99674 5466</li>
+                    <li><i class="fa-solid fa-envelope"></i> isaias@vetor256.com</li>
+                    <li><i class="fa-brands fa-square-instagram"></i> @isaiaslourenco</li>
+                    <li><i class="fa-solid fa-location-dot"></i> Rua Mococa, 880 - Itacolomy - Mogi Guaçu SP</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+
+    <footer>
+        <div class="container">
+            <div class="box-12">
+                <p> &copy; 2024 - Todos os direitos reservados </p>
+            </div>
+        </div>
+    </footer>
+
 </body>
 
 </html>
