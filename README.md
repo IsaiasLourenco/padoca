@@ -47,7 +47,7 @@ Quer saber mais ou iniciar um projeto conosco?
 
 ---
 
-**© 2025 PointOfSales Pro - 2025** **©Vetor256**<br>  Construindo o futuro, uma linha de código por vez. ✨<br>
+**©Vetor256**<br>  Construindo o futuro, uma linha de código por vez. ✨<br>
                     - Juntos com você na era da informação. ✨
 
 <img src="./assets/img/pdv.gif" alt="PointOfSales Pro.">
