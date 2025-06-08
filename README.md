@@ -50,4 +50,4 @@ Quer saber mais ou iniciar um projeto conosco?
 **©Vetor256**<br>  Construindo o futuro, uma linha de código por vez. ✨<br>
                     - Juntos com você na era da informação. ✨
 
-<img src="./assets/img/pdv.gif" alt="PointOfSales Pro.">
+<img src="./img/padoca.gif" alt="PointOfSales Pro.">
